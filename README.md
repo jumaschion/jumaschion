@@ -1,9 +1,9 @@
 
 
 
-![Julia Maschion's github stats](https://github-readme-stats.vercel.app/api?username=jumaschion&theme=great-gatsby&show_icons=true)
-
+![Julia Maschion's github stats](https://github-readme-stats.vercel.app/api?username=jumaschion&theme=great-gatsby&show_icons=true) 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jumaschion&hide=TeX&layout=compact)
+
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
